@@ -19,4 +19,4 @@ This repository contains solutions of problems from different domains of `Hacker
 |[]()| Easy | [Click here]() |
 
 
-> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
+> Find me at HackerRank - [@ii_Kweenie_ii](https://www.hackerrank.com/ii_Kweenie_ii?hr_r=1)
